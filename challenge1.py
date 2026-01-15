@@ -1,13 +1,4 @@
-# kamu sedang membuat permainan sederhana.
-# seorang pemain memula dengan 100 poin kesehatan.
-# mereka meminum ramuan yang menambah 25 poin kesehatan
-# lalu diserang oleh monster yang menyebabkan 40 kerusakan
-
-health = 100
-potion = 25
-damage = -40
-
-hp_potion = health + potion
-hp_damage = hp_potion + damage
-
-print(hp_damage)
+print("My name is Axel Lotl.\nI am 12 years old.\nI live in Jakarta.\nI love programming in Python.\n")
+print("My name is Naufal Endraputra.\nI am 24 years old.\nI live in Semarang.\nI love programming in Python.\n")
+print("My favorite foods are Nasi Goreng, tahu kupat, and pecel ayam.")
+print("My favorite beverage are iced tea, thai tea, and mineral water")
